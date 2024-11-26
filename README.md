@@ -54,5 +54,6 @@ This analysis provides actionable insights for businesses to:
 
 ---
 # **Dashboard**
-![Dashboard](https://github.com/user-attachments/assets/6a9d111e-15e0-44cf-bf55-d003c69379d9)
+![Dashboard](https://github.com/user-attachments/assets/5549c1e1-8b07-4c63-9a34-fcfa812ac5c4)
+
 
